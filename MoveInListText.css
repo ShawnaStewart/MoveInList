@@ -1,0 +1,94 @@
+h1 {
+	font-family: BrandonGrotesque;
+	font-size: 70px;
+	font-weight: 500;
+	line-height: 101.0px;
+	color: #57ffce;
+}
+
+h3 {
+	font-family: Roboto;
+	font-size: 39px;
+	font-weight: 900;
+	line-height: 49.0px;
+	letter-spacing: 2px;
+	color: #4e6b67;
+}
+
+h5 {
+	font-family: BrandonGrotesque;
+	font-size: 35px;
+	font-weight: 500;
+	line-height: 50.0px;
+	letter-spacing: 1px;
+	color: #ffffff;
+}
+
+h2 {
+	font-family: BrandonGrotesque;
+	font-size: 35px;
+	line-height: 48.0px;
+	letter-spacing: 0.1px;
+	color: #57ffcd;
+	color: var(--light-aquamarine);
+}
+
+h6 {
+	font-family: BrandonGrotesque;
+	font-size: 28px;
+	line-height: 38.0px;
+	letter-spacing: 0.2px;
+	color: #0600ffb6;
+	color: var(--primary-blue-72);
+}
+
+h4 {
+	font-family: Roboto;
+	font-size: 26px;
+	font-weight: 500;
+	line-height: 41.0px;
+	color: #ffffff;
+}
+
+.primary-button-active {
+	font-family: BrandonGrotesque;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 20.0px;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #f4f4f4;
+}
+
+.icon-text {
+	font-family: BrandonGrotesque;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 20.0px;
+	letter-spacing: 0.4px;
+	color: #0000d7;
+}
+
+.footer-category {
+	font-family: BrandonGrotesque;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 28.0px;
+	color: #57ffcd;
+	color: var(--light-aquamarine);
+}
+
+.footer-links {
+	font-family: BrandonGrotesque;
+	font-size: 16px;
+	line-height: 22.0px;
+	color: #ffffff;
+}
+
+.paragraph {
+	font-family: Roboto;
+	font-size: 13px;
+	font-weight: 500;
+	line-height: 20.0px;
+	color: #000000dd;
+}
