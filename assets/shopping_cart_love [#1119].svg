@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="48px" viewBox="0 0 50 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>shopping_cart_love [#1119]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1244.81695,48.7188225 C1241.72425,51.6375818 1241.1919,52.3291834 1237.3114,48.6185904 C1232.21215,43.7473096 1237.7287,38.4309981 1240.8916,42.5525427 C1241.0047,42.7028909 1241.2309,42.6988816 1241.344,42.5505381 C1244.4367,38.493142 1250.13265,43.7092214 1244.81695,48.7188225 L1244.81695,48.7188225 Z M1251.8467,53.9907153 L1231.1533,53.9907153 L1228.55395,37.9535767 L1254.44605,37.9535767 L1251.8467,53.9907153 L1251.8467,53.9907153 Z M1255.15,33.944292 L1247.3032,20.0220511 L1243.9258,22.0046423 L1250.64745,33.944292 L1232.35255,33.944292 L1239.07225,22.0266934 L1235.69485,20 L1227.85,33.944292 L1222,33.944292 L1222,37.9535767 L1224.59935,37.9535767 L1227.85,58 L1255.15,58 L1258.40065,37.9535767 L1261,37.9535767 L1261,33.944292 L1255.15,33.944292 L1255.15,33.944292 Z" id="path-1"></path>
+        <filter x="-35.9%" y="-26.3%" width="156.4%" height="157.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.341176471   0 0 0 0 0.329411765   0 0 0 0 0.329411765  0 0 0 0.512143342 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-3" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.341176471   0 0 0 0 0.329411765   0 0 0 0 0.329411765  0 0 0 0.374716938 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-1216.000000, -16.000000)">
+            <g id="shopping_cart_love-[#1119]">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
