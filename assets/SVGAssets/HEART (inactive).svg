@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>HEART (inactive)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HEART-(inactive)">
+            <g id="HEART">
+                <circle id="Oval-21" fill="#31363B" cx="30" cy="30" r="30"></circle>
+                <rect id="bounds" x="12" y="12" width="35.900713" height="35.900713"></rect>
+                <path d="M29.4627674,23.4875891 C28.4605391,20.8967543 25.6528042,19 22.7313837,19 C18.927404,19 16,21.8900074 16,25.7313837 C16,31.0102843 21.6738085,35.0924946 29.4627674,42.9338086 C37.2517262,35.0924946 42.9255347,31.0102843 42.9255347,25.7313837 C42.9255347,21.8900074 39.9981307,19 36.194151,19 C33.2697388,19 30.4649956,20.8967543 29.4627674,23.4875891 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

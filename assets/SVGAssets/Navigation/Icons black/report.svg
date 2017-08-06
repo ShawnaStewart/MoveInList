@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Material/Icons black/report</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.9990001,28.5995889 C16.5670796,28.5995889 15.3991445,27.4395244 15.3991445,26.0014445 C15.3991445,24.5673649 16.5670796,23.4033002 17.9990001,23.4033002 C19.4329204,23.4033002 20.5988556,24.5673649 20.5988556,26.0014445 C20.5988556,27.4395244 19.4329204,28.5995889 17.9990001,28.5995889 L17.9990001,28.5995889 Z M15.9971113,8.00044447 L19.9968891,8.00044447 L19.9968891,19.9991111 L15.9971113,19.9991111 L15.9971113,8.00044447 Z M25.4545859,0 L10.5414144,0 L0,10.5445858 L0,25.4574143 L10.5414144,36 L25.4545859,36 L36,25.4574143 L36,10.5445858 L25.4545859,0 L25.4545859,0 Z" id="path-1"></path>
+        <filter x="-18.1%" y="-15.3%" width="136.1%" height="136.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.306923687 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Material/Icons-black/report">
+            <g id="Fill-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Material/Icons black/search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.1627216,17.1028016 L28.4376215,17.1028016 L27.8379646,17.6981132 C29.9563179,20.1684391 31.2447113,23.3709548 31.2447113,26.879817 C31.2447113,34.6797027 24.9222413,41.0021727 17.1223556,41.0021727 C9.32246998,41.0021727 3,34.6797027 3,26.879817 C3,19.0799314 9.32246998,12.7574614 17.1223556,12.7574614 C20.6312178,12.7574614 23.8315609,14.0436821 26.3018868,16.1598628 L26.9015437,15.5645512 L26.9015437,13.8437965 L37.7605489,3 L41,6.23945111 L30.1627216,17.1028016 L30.1627216,17.1028016 Z M17.1223556,17.1028016 C11.7210978,17.1028016 7.34534019,21.4785592 7.34534019,26.879817 C7.34534019,32.2789022 11.7210978,36.6568325 17.1223556,36.6568325 C22.5214408,36.6568325 26.8993711,32.2789022 26.8993711,26.879817 C26.8993711,21.4785592 22.5214408,17.1028016 17.1223556,17.1028016 L17.1223556,17.1028016 Z" id="path-1"></path>
+        <filter x="-31.6%" y="-15.8%" width="147.4%" height="147.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.341176471   0 0 0 0 0.329411765   0 0 0 0 0.329411765  0 0 0 0.512143342 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-3" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.341176471   0 0 0 0 0.329411765   0 0 0 0 0.329411765  0 0 0 0.301828578 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Material/Icons-black/search">
+            <g id="Shape" transform="translate(22.000000, 22.001086) scale(1, -1) translate(-22.000000, -22.001086) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
